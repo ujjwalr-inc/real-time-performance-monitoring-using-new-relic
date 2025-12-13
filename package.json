@@ -1,13 +1,13 @@
 {
-  "name": "project",
+  "name": "Real Time Performance Monitoring using New Relic",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node -r newrelic app.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "connect-flash": "^0.1.1",
