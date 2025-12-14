@@ -1,5 +1,5 @@
 {
-  "name": "real-time-performance-monitoring-using-new-relic",
+  "name": "real-time-performance-monitoring",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
